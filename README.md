@@ -1,4 +1,5 @@
 # data-analytics-using-sql-and-excel
+change the branch to master.
 this for begginer data analysis 
 
  use any sql server management tool like MS sql or mysql workbench.
